@@ -1,0 +1,7 @@
+# C object files
+*.o
+*.a
+
+# output files
+nunchuck
+nunchuck-test
